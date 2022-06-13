@@ -1,0 +1,239 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+  {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+  \item\small{
+      {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+  \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & \textbf{\small #2} \\
+    \textit{\small#3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+  \item
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \textit{\small#1} & \textit{\small #2} \\
+  \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+  \item
+  \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+    \small#1 & \textbf{\small }\\
+  \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+  {\Huge \scshape Kshitij Mishra} \\ \vspace{1pt}
+  satna, Madhya Pradesh \\ \vspace{1pt}
+  \small \raisebox{-0.1\height}\faPhone\ +91 8619823924 ~ \href{mailto:ps25372@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{ps25372@gmail.com}} ~
+  \href{https://linkedin.com/in/pranav-sharma-095542198/}{\raisebox{-0.2\height}\faLinkedin\ \underline{linkedin.com/in/pranav}}
+  \vspace{-8pt}
+\end{center}
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+  \resumeSubheading
+    {Vindhya Institute of Technology and Science satna}{August 2020 - Current}
+    {Bachelor of Technology in Information Technology (CGPA of 9.04)}{Punjab, India}
+  \resumeSubheading
+    {St. Michael's Sr.Sec. School, Satna}{July 2008 - June 2020}
+    {Bachelor of Technology in Information Technology (Percentage - 7.36)}{Madhya pradesh, India}
+  \resumeSubHeadingListEnd
+  %-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+  \resumeSubheading
+    {Codechef}{April 2022 -- present 2022}
+    {Doubt solver}{}
+    \resumeItemListStart
+      \resumeItem{Worked as a \textbf{Doubt solver} intern in \textbf{Codechef} solving doubts and problems of the users}
+      \resumeItem{Solving and explaining problems from various difficulties \textbf{(1000-1400)}}
+       \resumeItem{Helping and giving suggestions to the people new to codechef and competative programming}
+        \resumeItem{Collaborating and researching with other doubtsolvers on various problems }
+  \resumeItemListEnd
+    
+  \resumeSubHeadingListEnd
+\vspace{-16pt}
+
+%-----------PROJECTS-----------
+\section{Projects}
+  \vspace{-5pt}
+  \resumeSubHeadingListStart
+  \resumeProjectHeading
+        {\textbf{Ecommerce-website} $|$ \emph{HTML , CSS, JAVASCRIPT} $|$ {\href{https://kshitijmishra27.github.io/Ecommerce-Website/}{Clickable Link}}}{June 2022}
+        \resumeItemListStart
+          \resumeItem{An interface which will give and option for buying various varieties of clothes. }
+          \resumeItem{Options of various colors per clothes are given }
+          \resumeItem{Further improvements needs to be done like applying javascript to other remaining  sections etc}
+          
+        \resumeItemListEnd
+  \vspace{-13pt}
+    \resumeProjectHeading
+        {\textbf{Drum Kit} $|$ \emph{HTML, CSS , JAVASCRIPT}  $|$ {\href{https://kshitijmishra27.github.io/drum-kit/}{Clickable Link}}}{January 2019}
+        \resumeItemListStart
+          \resumeItem{Created a drum kit playing game }
+           \resumeItem{a beginners javascript project to understand the basic working of html, css and js }
+        \resumeItemListEnd
+  \resumeSubHeadingListEnd
+\vspace{-15pt}
+
+%
+%-----------Skills-----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{:  C/C++,HTML,CSS,Javascript, tailwind CSS, Bootstrap} \\
+     
+     \textbf{Developer Tools}{: Git/Github, VS Code,Atom} \\
+     \textbf{Libraries}{: STL} \\
+     \textbf{Other Skills}{: Data Structures and Algorithms, Problem Solving , Competative programming, Opensource} \\
+    }}
+ \end{itemize}
+%
+%-----------Achievements-----------
+\section{Achievements}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+  \resumeItemListStart
+      \resumeItem{4 stars in Codechef ( personal hightest) }
+      \resumeItem{\textbf{CodeChef Starters 36 Division 3:} 276 Global rank}
+      \resumeItem{\textbf{CodeChef Starters 19 Division 3:} 284 Global rank}
+      \resumeItem{ \textbf{problems:} solved 200+ problems in platforms like codechef, codeforces , leetcode , geeks for geeks}
+      \resumeItem{ \textbf{hackerank: } 6 stars in hackerank problem solving , 5 stars c++ badge}
+      \resumeItem{\textbf{contests participation: }participated in 30+ contests in codechef, 7+ contests in codeforces and 6 contests in leetcode}
+      \resumeItem{Selected in Girlscript sumer of code }
+    \resumeItemListEnd
+ \end{itemize}
+ \vspace{-16pt}
+ 
+ %
+%-----------Profile Links-----------
+\section{Profile Links}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+  \resumeItemListStart
+      \resumeItem {\href{https://www.codechef.com/users/kshitij123k}{Codechef}}
+      \resumeItem {\href{https://auth.geeksforgeeks.org/user/kshitijmishra27/}{GeeksforGeeks}}
+        \resumeItem {\href{https://leetcode.com/kshitijmishra27/}{Leetcode}}
+      \resumeItem {\href{https://codeforces.com/profile/kshitijmishra2002}{Codeforces}}
+    \resumeItemListEnd
+ \end{itemize}
+ \vspace{-16pt}
+ %
+%-----------Leadership skills-----------
+\section{Volunteering}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+  \resumeSubHeadingListStart
+  \resumeSubheading
+    {GeeksforGeeks Vits chapter lead}{June 2022 -- present 2022}
+    {Chairperson }{}
+    \resumeItemListStart
+      \resumeItem{Spreading the awareness of competative programming and importance of DSA in college }
+      \resumeItem{Explained the students about GeeksforGeeks benefits and its various contests, programs and a lot more  }
+         \resumeItem{created groups in college for spreading useful resources for learing DSA and competative programming }
+
+  \resumeItemListEnd
+  \resumeSubHeadingListEnd
+ \end{itemize}
+ \vspace{-16pt}
+ %
+
+\end{document}
