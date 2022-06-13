@@ -125,8 +125,8 @@
 \begin{center}
   {\Huge \scshape Kshitij Mishra} \\ \vspace{1pt}
   satna, Madhya Pradesh \\ \vspace{1pt}
-  \small \raisebox{-0.1\height}\faPhone\ +91 8619823924 ~ \href{mailto:ps25372@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{ps25372@gmail.com}} ~
-  \href{https://linkedin.com/in/pranav-sharma-095542198/}{\raisebox{-0.2\height}\faLinkedin\ \underline{linkedin.com/in/pranav}}
+  \small \raisebox{-0.1\height}\faPhone\ +91 8839967982 ~ \href{mailto:kshitijmishra27@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{kshitijmishra27@gmail.com}} ~
+  \href{https://www.linkedin.com/in/kshitij-mishra-9b26911b2/}{\raisebox{-0.2\height}\faLinkedin\ \underline{linkedin.com/in/Kshitij}}
   \vspace{-8pt}
 \end{center}
 %-----------EDUCATION-----------
@@ -210,10 +210,7 @@
 \section{Profile Links}
  \begin{itemize}[leftmargin=0.15in, label={}]
   \resumeItemListStart
-      \resumeItem {\href{https://www.codechef.com/users/kshitij123k}{Codechef}}
-      \resumeItem {\href{https://auth.geeksforgeeks.org/user/kshitijmishra27/}{GeeksforGeeks}}
-        \resumeItem {\href{https://leetcode.com/kshitijmishra27/}{Leetcode}}
-      \resumeItem {\href{https://codeforces.com/profile/kshitijmishra2002}{Codeforces}}
+      \resumeItem {\href{https://www.codechef.com/users/kshitij123k}{Codechef } \href{https://auth.geeksforgeeks.org/user/kshitijmishra27/}{GeeksforGeeks } \href{https://leetcode.com/kshitijmishra27/}{Leetcode } \href{https://codeforces.com/profile/kshitijmishra2002}{Codeforces}}
     \resumeItemListEnd
  \end{itemize}
  \vspace{-16pt}
@@ -223,7 +220,7 @@
  \begin{itemize}[leftmargin=0.15in, label={}]
   \resumeSubHeadingListStart
   \resumeSubheading
-    {GeeksforGeeks Vits chapter lead}{June 2022 -- present 2022}
+    {GeeksforGeeks VITS chapter lead}{June 2022 -- present 2022}
     {Chairperson }{}
     \resumeItemListStart
       \resumeItem{Spreading the awareness of competative programming and importance of DSA in college }
