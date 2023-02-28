@@ -1,0 +1,196 @@
+\documentclass[]{deedy-resume-openfont}
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Kshitij}{Mishra}{ \urlstyle{same}\href{https://www.linkedin.com/in/kshitij-mishra-9b26911b2/}{Linkedin} |\href{https://www.linkedin.com/in/kshitij-mishra-9b26911b2/}{Link} \href{Linkedin ID}\\
+\href{mailto:kshitijmishra27@gmail.com}{kshitijmishra27@gmai.com} | 8839967982
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+
+\subsection{BTECH-Computer Science}
+\descript{Vindhya institute of technology 
+and science}
+\location{
+2020-2024 | Satna \\
+CGPA of 8.56}
+\sectionsep
+
+\subsection{12th - Maths + CS}
+\descript{St. Michael’s Sr.Sec. School}
+\location{May 2019 | Satna}
+\location{ 
+CGPA of 73.6}
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links} 
+Coding Profiles:// \href{https://linktr.ee/kshitij_mishra}{\bf Kshitij Mishra} \\
+Github:// \href{https://github.com/kshitijmishra27}{\bf Kshitij Mishra} \\
+LinkedIn://  \href{https://www.linkedin.com/in/kshitij-mishra-9b26911b2/}{\bf Kshitij Mishra} \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Coursework}
+\subsection{Undergraduate}
+Data Structures And Algorithms \\
+Object oriented programming \\
+Database management system \\
+Computer networks \\
+Operating Systems \\
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Skills}
+\subsection{Languages and Libraries}
+\location{}
+C/C++, HTML, CSS , Javascript , tailwind CSS , Bootstrap , React js , STL , SQL\\
+\sectionsep
+\location{ }
+\subsection{Developer Tools:}
+Git/Github, VS Code , Sublime , Atom
+ \sectionsep
+ \sectionsep 
+ 
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%    GeeksforGeeks VITS chapter lead June 2022 – present 2022
+%Chairperson
+%∗ Spreading the awareness of competative programming and importance of DSA in college
+%∗ Explained the students about GeeksforGeeks benefits and its various contests, programs and a lot more
+%∗ created groups in college for spreading useful resources for learing DSA and competative programming
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ 
+ \section{Volunteering:}
+ 
+ \subsection{GeeksforGeeks VITS}
+\item \textbullet{} Spreading the awareness of competitive programming and importance of DSA in college\\
+\item \textbullet{} Explained the students about GeeksforGeeks benefits and its various contests, programs and a lot more
+ \sectionsep
+ 
+  \subsection{Admin at Telegram}
+\item \textbullet{} Clear the Doubts of 500+ people in the group
+\item \textbullet{} Spread the awareness of competitive programming and importance of DSA in Group\\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+\runsubsection{Codechef}
+\descript{| Doubt Solver }
+\location{April 2022 - June 2022 | Remote} \\
+\item \textbullet{} Worked as a Doubt solver intern in Codechef(biggest competitive programming platform of india) solving doubts and problems of the users
+\item \textbullet{} Solving and explaining problems from various difficulties
+\item \textbullet{} Helping and giving suggestions to the people new to codechef and competitive programming
+
+\sectionsep
+
+\runsubsection{SSOC}
+\descript{| Social Script Summer of Code | Open Source Contribter}
+\location{August 2022 – September 2022 | Remote}
+\begin{tightemize}
+\item Worked in 3 Projects Fitnezz, Awesome Chrome Extensions and Webeginner Projects
+\item Created the About , Contact Page and Backworkout page and lot more in Fitnezz website
+\item improved the UI/UX of the Fitnezz website 
+\item I created the Sorting Visualizer extension in Awesome chrome Extension project
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Chegg}
+\descript{| Subject Matter Expert }
+\location{October 2022 – Present | Remote}
+\begin{tightemize}
+\item Taught the Students About computer science subjects C++, DSA, OOPS
+\item Solved the Doubts of the students in Programming and similar stuff
+\item Shared the resources and tips and tricks to improve logic building
+\end{tightemize}
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Projects
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Projects}
+\runsubsection{Virtual Trainer}
+\descript{| HTML/CSS JS Bootstrap Reactjs apis}
+\location{Github-\href{https://github.com/kshitijmishra27/Virtual-gym}{\bf Link} | Live \href{https://virtual-gym-pro.netlify.app/}{\bf Link}}
+\item \textbullet{} Created the website which will guide the people without need of trainers
+\item \textbullet{} Added all the core and important Excercises 
+\item \textbullet{} Used APIs to render various stuffs
+\sectionsep
+
+\runsubsection{Algorithm  hallucinator}
+\descript{|HTML CSS Javascript}
+\location{Github-\href{https://kshitijmishra27.github.io/Sorting-visualizer/}{\bf Link}}
+\item  \textbullet{} Created a Sorting Algorithm visualizer web app
+\item \textbullet{} Visualize and learn the algorithms like merge sort, quick sort , bubble sort, insertion sort etc
+\item \textbullet{} Added key features like Controling the speed of the algo and no. of items in the Algo
+
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Achievements
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Achievements} 
+
+\item \textbullet{} 4 stars in Codechef ( personal highest)
+\item \textbullet{} CodeChef Starters 36 Division 3: 276 Global rank
+\item \textbullet{} Hackerrank Certified Intermediate problem Solver \href{https://www.hackerrank.com/certificates/ff3d3e2135a3}{\textbf{Click here}}.\\
+\item \textbullet{} problems: solved 500+ problems in platforms like codechef, codeforces , leetcode , Geeks for geeks
+\item \textbullet{} hackerank: 6 stars in hackerank problem solving , 5 stars c++ badge
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PUBLICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}
