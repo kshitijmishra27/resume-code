@@ -1,0 +1,232 @@
+\documentclass[]{deedy-resume-openfont}
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Kshitij}{Mishra}{ \urlstyle{same}\href{https://www.linkedin.com/in/kshitij-mishra-9b26911b2/}{Linkedin (19k+)} |\href{https://www.linkedin.com/in/kshitij-mishra-9b26911b2/}{Link} \\
+\href{mailto:kshitijmishra27@gmail.com}{kshitijmishra27@gmail.com} | 8839967982
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+
+\subsection{BTECH-Computer Science}
+\descript{Vindhya institute of technology 
+and science}
+\location{
+2020-2024 | Satna \\
+CGPA of 8.36}
+\sectionsep
+
+\subsection{12th - Maths + CS}
+\descript{St. Michael’s Sr.Sec. School}
+\location{May 2019 | Satna}
+\location{ 
+CGPA of 73.6}
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links} 
+Coding Profiles:// \href{https://linktr.ee/kshitij_mishra}{\bf Kshitij Mishra} \\
+Github:// \href{https://github.com/kshitijmishra27}{\bf Kshitij Mishra} \\
+LinkedIn://  \href{https://www.linkedin.com/in/kshitij-mishra-9b26911b2/}{\bf Kshitij Mishra} \\
+Youtube://  \href{https://www.youtube.com/@kshitijmishra27}{\bf Kshitij Mishra} \\
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Coursework}
+\subsection{Undergraduate}
+Data Structures And Algorithms \\
+Object oriented programming \\
+Database management system \\
+Computer networks \\
+Operating Systems \\
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+
+\location{Languages and libraries}
+
+\vspace{2mm}
+
+\textbullet{} C++
+\textbullet{} JavaScript
+\textbullet{} React JS 
+\textbullet{} Express JS
+\textbullet{} node js
+\textbullet{} STL
+\textbullet{} HTML
+\textbullet{} CSS
+\textbullet{} Node JS
+ \textbullet{} SQL
+% \textbullet{} Python\\
+
+\vspace{2mm}
+
+\location{Tools:}
+
+\vspace{2mm}
+\textbullet{} Git/GitHub
+\textbullet{} VS Code
+\textbullet{} Sublime \\
+\textbullet{} Canva \\
+
+\vspace{2mm}
+
+
+
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%    GeeksforGeeks VITS chapter lead June 2022 – present 2022
+%Chairperson
+%∗ Spreading the awareness of competative programming and importance of DSA in college
+%∗ Explained the students about GeeksforGeeks benefits and its various contests, programs and a lot more
+%∗ created groups in college for spreading useful resources for learing DSA and competative programming
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ 
+ \section{Community work:}
+ 
+  \subsection{Founder | OS community | \location{Link-\href{https://telegram.me/os_Community}{\bf (click)}}}
+\begin{tightemize}
+\item  Build the Community of 5k+ people
+\item  Spreaded the awareness and importance of programming in the community
+\item  conducted various events like hacktoberfest, ssoc, swoc, sessions about GSOC, newtons 51 days of code, scaler 25 
+\end{tightemize}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+\runsubsection{Codechef}
+\descript{| Doubt Solver }
+\location{April 2022 - June 2022 | Remote} \\
+\vspace{2mm}
+\vspace{2mm}
+\begin{tightemize}
+\item Worked as a Doubt solver intern in Codechef (biggest competitive programming platform of India), solving doubts and problems of the users
+\item  Solving and explaining problems from various difficulties
+\item  Helping and giving suggestions to the people new to codechef and competitive programming
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Social Summer of Code}
+\descript{| Program Manager}
+\location{April 2023 - present | Remote} \\
+
+\begin{tightemize}
+\item Spread the Awareness of Students about Open source and its benefits
+\item Taught them the basics of git, GitHub, and how to contribute to open source
+\item Approaching various communities to collaborate 
+\end{tightemize}
+\sectionsep
+
+\runsubsection{TLE Eliminators }
+\descript{| Content Creator }
+\location{May 2022 – Present | Remote }
+\begin{tightemize}
+\item  Developed and executed content marketing strategy for C++ on LinkedIn, resulting in a 20 percent increase in LinkedIn page.
+\item Created visually appealing and engaging content that showcased the latest C++ news and trends.
+\item Managed and grew a community of over 10,000 C++ professionals on LinkedIn.
+\end{tightemize}
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Projects
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Projects}
+\runsubsection{Virtual Trainer}
+\descript{| HTML/CSS, JS, Bootstrap, REACT JS, APIS}
+\location{Github-\href{https://github.com/kshitijmishra27/Virtual-gym}{\bf Link} | Live \href{https://virtual-gym-pro.netlify.app/}{\bf Link}}
+% \vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Created a website that will guide people about all the exercises and workouts without the need for trainers  
+\item Added all the core and important Exercises 
+\item Used APIs to render various stuff
+\end{tightemize}
+
+\sectionsep
+
+\runsubsection{Sarthii}
+\descript{| NODE JS, TELEGRAPH API }
+\location{Github-\href{https://github.com/kshitijmishra27/Sarthiii-bot}{\bf Link} | Live \href{https://web.telegram.org/k/#@Sarthiii_bot}{\bf Link}}
+\begin{tightemize}
+\item Created the telegram bot for 3000+ telegram community
+\item Added various features/functionalities like:
+\item Contest Reminder for various coding platforms, Motivational quotes, programming jokes, Bhagwat Gita random shlokes, life advice quotes all using various APIs
+\end{tightemize}
+\vspace{2mm}
+
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Achievements
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Achievements} 
+\vspace{2mm}
+\begin{tightemize}
+\item 4 stars in Codechef ( personal highest)
+\item Got 18K+ followers on LinkedIn by teaching people C++ tips and tricks of programming
+\item CodeChef Starters 36 Division 3: 276 Global rank
+\item Hackerrank Certified Intermediate problem Solver \href{https://www.hackerrank.com/certificates/ff3d3e2135a3}{\textbf{Click here}}.\\
+\item solved 500+ problems on platforms like Codechef, Codeforces, LeetCode, Geeks for Geeks
+\item 6 stars in HackerRank problem solving, 5 stars C++ badge
+\end{tightemize}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PUBLICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\end{document}
